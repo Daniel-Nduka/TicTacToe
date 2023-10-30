@@ -12,6 +12,7 @@ public class Play {
 		//Get input from user
 		Scanner s = new Scanner (System.in);
 		
+		
 		while (true) {
 			
 			System.out.println("Player: enter an index number ");
